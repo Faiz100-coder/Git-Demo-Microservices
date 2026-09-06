@@ -10,4 +10,8 @@ class UserserviceApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test 
+	void modelMapper(){
+return new model Mapper.map()
+
 }
