@@ -10,4 +10,7 @@ class UserserviceApplicationTests {
 	void contextLoads() {
 	}
 
+
+	// adding from the feature branch .gitignore
+
 }
