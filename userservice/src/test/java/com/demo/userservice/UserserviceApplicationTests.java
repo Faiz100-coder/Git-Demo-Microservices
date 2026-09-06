@@ -13,4 +13,8 @@ class UserserviceApplicationTests {
 
 	// adding from the feature branch .gitignore
 
+	@Test 
+	void modelMapper(){
+return new model Mapper.map()
+
 }
