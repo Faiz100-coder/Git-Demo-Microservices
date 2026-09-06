@@ -10,6 +10,9 @@ class UserserviceApplicationTests {
 	void contextLoads() {
 	}
 
+
+	// adding from the feature branch .gitignore
+
 	@Test 
 	void modelMapper(){
 return new model Mapper.map()
